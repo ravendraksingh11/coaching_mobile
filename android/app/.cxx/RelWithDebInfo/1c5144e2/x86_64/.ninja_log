@@ -1,0 +1,22 @@
+# ninja log v5
+1	10	0	/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/RelWithDebInfo/1c5144e2/x86_64/CMakeFiles/cmake.verify_globs	b91d61287daaebdf
+1	2487	1790749898047145644	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/react/renderer/components/RNKeychainSpec/States.cpp.o	933ef3faa89cdbaa
+0	2817	1790749898371181600	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/react/renderer/components/RNKeychainSpec/EventEmitters.cpp.o	ce4fa7bb84c25f36
+0	3836	1790749899386929543	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/RNKeychainSpec-generated.cpp.o	c740876342aa7ec2
+0	5923	1790749901466543339	CMakeFiles/appmodules.dir/OnLoad.cpp.o	29b838058f1901e
+1	5986	1790749901535055232	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/react/renderer/components/RNKeychainSpec/Props.cpp.o	904bf7d881fe0255
+2	6368	1790749901913614948	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp.o	13e0bb85254ce601
+1	7119	1790749902655510199	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/react/renderer/components/RNKeychainSpec/ShadowNodes.cpp.o	d43fc0c749541065
+0	7206	1790749902761820653	RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir/react/renderer/components/RNKeychainSpec/ComponentDescriptors.cpp.o	9c9f5205836c3ac5
+2490	7730	1790749903285545691	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGLayoutableShadowNode.cpp.o	31d3e57df6aadfb3
+2	8034	1790749903575360409	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp.o	6112af09b6562ea0
+2817	9182	1790749904727406588	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/common/cpp/react/renderer/components/rnsvg/RNSVGShadowNodes.cpp.o	f8c3a23a0d96e95e
+7206	9198	1790749904762003121	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp.o	c8d1f228f94cd0cb
+5986	9789	1790749905349321713	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp.o	5f5118d0c4085e9a
+3836	10405	1790749905962313504	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/rnsvg.cpp.o	c768860f04c5f0d9
+7120	10524	1790749906086535836	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp.o	16388ad858a7fe33
+5924	10878	1790749906435913571	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp.o	78c85176f7fc4c01
+0	13526	1790749909070943742	CMakeFiles/appmodules.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	7b15e158baaf6a2b
+6369	15015	1790749910562925028	rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/build/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp.o	7fcc646da1f0c841
+15015	15142	1790749910701776329	/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/intermediates/cxx/RelWithDebInfo/1c5144e2/obj/x86_64/libreact_codegen_rnsvg.so	3a4b599275b3a0fa
+15142	15191	1790749910752746807	/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/intermediates/cxx/RelWithDebInfo/1c5144e2/obj/x86_64/libappmodules.so	4e270651f6716d3f

@@ -1,0 +1,9 @@
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/CMakeFiles/appmodules.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/CMakeFiles/edit_cache.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/CMakeFiles/rebuild_cache.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/RNKeychainSpec_autolinked_build/CMakeFiles/react_codegen_RNKeychainSpec.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/RNKeychainSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/RNKeychainSpec_autolinked_build/CMakeFiles/rebuild_cache.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/Debug/6s1x5g4j/x86/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir

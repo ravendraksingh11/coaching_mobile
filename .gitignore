@@ -3,11 +3,8 @@
 # dependencies
 node_modules/
 
-# Expo
-.expo/
 dist/
 web-build/
-expo-env.d.ts
 
 # Native
 .kotlin/
@@ -17,6 +14,12 @@ expo-env.d.ts
 *.p12
 *.key
 *.mobileprovision
+/ios/Pods/
+/ios/build/
+/android/.gradle/
+/android/build/
+/android/app/build/
+/android/local.properties
 
 # Metro
 .metro-health-check*
@@ -31,11 +34,9 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
 
 # typescript
 *.tsbuildinfo
 
-# generated native folders
-/ios
-/android

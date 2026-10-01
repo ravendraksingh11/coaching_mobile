@@ -1,0 +1,3 @@
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-keychain/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt
+/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

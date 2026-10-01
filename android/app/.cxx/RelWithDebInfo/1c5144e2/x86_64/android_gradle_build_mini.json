@@ -1,0 +1,49 @@
+{
+  "buildFiles": [
+    "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-keychain/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt",
+    "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/ravendrasingh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/RelWithDebInfo/1c5144e2/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/ravendrasingh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/.cxx/RelWithDebInfo/1c5144e2/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/intermediates/cxx/RelWithDebInfo/1c5144e2/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/intermediates/cxx/RelWithDebInfo/1c5144e2/obj/x86_64/libreact_codegen_rnsvg.so",
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/a5c9845013ee3ad6a90da2dd0ddfc0a2/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/34b535d7ebfb6cb7b39c2b7bc4847b42/transformed/react-android-0.86.3-release/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/34b535d7ebfb6cb7b39c2b7bc4847b42/transformed/react-android-0.86.3-release/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNKeychainSpec::@f9a2cb36ebca2de4baf9": {
+      "artifactName": "react_codegen_RNKeychainSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    },
+    "react_codegen_rnsvg::@4f40eb209d0c0b4a3b65": {
+      "artifactName": "react_codegen_rnsvg",
+      "abi": "x86_64",
+      "output": "/Users/ravendrasingh/Coaching_SAAS/coaching-saas/mobile/android/app/build/intermediates/cxx/RelWithDebInfo/1c5144e2/obj/x86_64/libreact_codegen_rnsvg.so",
+      "runtimeFiles": [
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/34b535d7ebfb6cb7b39c2b7bc4847b42/transformed/react-android-0.86.3-release/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so",
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/34b535d7ebfb6cb7b39c2b7bc4847b42/transformed/react-android-0.86.3-release/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/ravendrasingh/.gradle/caches/9.3.1/transforms/a5c9845013ee3ad6a90da2dd0ddfc0a2/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so"
+      ]
+    }
+  }
+}
